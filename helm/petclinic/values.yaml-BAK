@@ -5,8 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: mkvm2050/murali-k8-cf
-  #repository: initsixcloud/petclinicls
+  repository: initsixcloud/petclinic
   tag: latest
   pullPolicy: IfNotPresent
 
